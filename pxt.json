@@ -7,7 +7,15 @@
         "darts": "*",
         "color-coded-tilemap": "*",
         "animation": "*",
-        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.3.0"
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.3.0",
+        "corgio": "*",
+        "controller": "*",
+        "servo": "*",
+        "radio": "*",
+        "storyboard": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "mouse": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.3"
     },
     "files": [
         "main.blocks",
